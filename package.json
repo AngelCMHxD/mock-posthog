@@ -1,0 +1,7 @@
+{
+  "name": "mock-posthog",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  }
+}
